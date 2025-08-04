@@ -1,8 +1,8 @@
 # My Presentation
 
-This repository contains a presentation about **[insert topic here]**.
+This repository contains a presentation from IDNOG. 
 
-📄 **[Download the presentation](./YourPresentation.pdf)**
+📄 **[IDNOG 1](./Next%20Gen%20Campus%20Network%20IDNOG%202%20PDF%203.pdf)**
 
 ## About
 This slide deck was created for [event/purpose].
